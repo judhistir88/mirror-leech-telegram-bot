@@ -370,4 +370,4 @@ machine example.workers.dev password index_password
 ```
 Where host is the name of extractor (eg. Youtube, Twitch). Multiple accounts of different hosts can be added each separated by a new line.
 
-https://heroku.com/deploy?template=https://github.com/judhistir88/mirror-leech-telegram-bot
+  <p><a href="https://heroku.com/deploy?template=https://github.com/judhistir88/mirror-leech-telegram-bot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
